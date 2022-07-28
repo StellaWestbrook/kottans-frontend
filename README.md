@@ -6,7 +6,7 @@ I'm 33 years old and I want to be a frontend developer.
 In this repository :clipboard:, I will celebrate my achievements from studying at Kottans. Share your impressions and successes.
 :trophy:
 
-_Tech Skills`_
+_Tech Skills_
 - HTML is a beginner
 - CSS is a beginner
 - GIT is a beginner
@@ -28,13 +28,13 @@ ___
     - [x] Курс Introduction to Git and GitHub:
          - [1 week](https://www.screencast.com/t/RQGJl8pDLhE)
          - [2 week](https://www.screencast.com/t/twCAayH4r9)
-- </br> :vhs:***It is not easy to perceive information in English when you need to read subtitles and have time to watch what is happening on the screen. In general, everything is quite interesting and informative.***
+ </br> :vhs:***It is not easy to perceive information in English when you need to read subtitles and have time to watch what is happening on the screen. In general, everything is quite interesting and informative.***
 
     - [x] learngitbranching.js.org:
          - Основи: [Introduction Sequence](https://www.screencast.com/t/ed3iLmkvQAq)
          - Віддалені репозиторії: [Push & Pull](https://www.screencast.com/t/FMvJKPQjj2) - віддалені репозиторії в Git!
   
-- </br> :vhs:***There were some difficulties when passing the levels. But in general very interesting.***
+ </br> :vhs:***There were some difficulties when passing the levels. But in general very interesting.***
 
  1. Linux CLI and Networking</br>
  2. VCS (hello gitty), GitHub and Collaboration
@@ -55,4 +55,3 @@ ___
 13. Website Performance Optimization - optional</br>
 14. Friends App - real project!
 ____
-kottans-frontend

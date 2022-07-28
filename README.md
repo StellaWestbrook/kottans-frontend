@@ -33,7 +33,6 @@ ___
     - [x] learngitbranching.js.org:
          - Основи: [Introduction Sequence](https://www.screencast.com/t/ed3iLmkvQAq)
          - Віддалені репозиторії: [Push & Pull](https://www.screencast.com/t/FMvJKPQjj2) - віддалені репозиторії в Git!
-  
  </br> :vhs:***There were some difficulties when passing the levels. But in general very interesting.***
 
  1. Linux CLI and Networking</br>
